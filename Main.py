@@ -9,6 +9,3 @@ def multiplicacion(x,y):
 
 respuesta = sumar(2,3)
 print(respuesta)
-
-respuesta = restar(2,3)
-print(respuesta)
