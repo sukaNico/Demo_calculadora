@@ -8,6 +8,8 @@ def multiplicacion(x,y):
     return x*y
 
 def division(x,y):
+    if y!=0:
+        return 0
     return x/y
 
 respuesta = sumar(2,3)
