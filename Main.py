@@ -9,3 +9,5 @@ def multiplicacion(x,y):
 
 respuesta = sumar(2,3)
 print(respuesta)
+
+print("Cambio de emergencia")
